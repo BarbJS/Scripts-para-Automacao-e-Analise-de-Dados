@@ -1,0 +1,20 @@
+2025-10-15 20:04:24,947 - INFO - --- INICIANDO PROCESSO DE ANÁLISE DE DADOS DE CLIENTES ---
+2025-10-15 20:04:24,948 - INFO - Lendo arquivo CSV de: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\3. Interpretador de dados\clientes.csv
+2025-10-15 20:04:25,113 - INFO - Lendo arquivo JSON de: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\3. Interpretador de dados\compras.json
+2025-10-15 20:04:25,390 - INFO - Juntando os dados dos arquivos CSV e JSON.
+2025-10-15 20:04:25,469 - INFO - Dados consolidados com sucesso. Iniciando análises e geração de gráficos.
+2025-10-15 20:04:25,612 - INFO - Estatísticas descritivas geradas:
+       ID_Cliente      Idade      Salario  Valor_Gasto  Pontuação_Satisfação
+count    5.000000   5.000000      5.00000     5.000000              5.000000
+mean     3.000000  31.600000   7180.00000  1430.290000              7.600000
+std      1.581139   7.503333   2916.67619  1246.325944              1.140175
+min      1.000000  22.000000   3800.00000   150.200000              6.000000
+25%      2.000000  28.000000   5500.00000   450.000000              7.000000
+50%      3.000000  31.000000   6900.00000  1250.500000              8.000000
+75%      4.000000  35.000000   8200.00000  2100.750000              8.000000
+max      5.000000  42.000000  11500.00000  3200.000000              9.000000
+2025-10-15 20:04:29,613 - INFO - Gráfico de distribuição de idade salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\3. Interpretador de dados\grafico_distribuicao_idade.png
+2025-10-15 20:04:30,452 - INFO - Gráfico de dispersão salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\3. Interpretador de dados\grafico_dispersao.png
+2025-10-15 20:04:30,777 - INFO - Análise de Correlação (Idade vs. Satisfação): Correlação=0.36, Valor-p=0.5559
+2025-10-15 20:04:31,695 - INFO - Gráfico de Box Plot salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\3. Interpretador de dados\grafico_boxplot_satisfacao.png
+2025-10-15 20:04:31,698 - INFO - --- PROCESSO DE ANÁLISE FINALIZADO ---

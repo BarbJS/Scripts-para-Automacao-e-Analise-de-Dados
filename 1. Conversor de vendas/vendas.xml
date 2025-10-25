@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<vendas>
+    <venda>
+        <id_produto>101</id_produto>
+        <nome_produto>Produto 1</nome_produto>
+        <quantidade>3</quantidade>
+        <preco_unitario>1200.0</preco_unitario>
+        <data_venda>10/01/2024</data_venda>
+        <data_importacao>15/10/2025</data_importacao>
+    </venda>
+    <venda>
+        <id_produto>102</id_produto>
+        <nome_produto>Serviço 1</nome_produto>
+        <quantidade>5</quantidade>
+        <preco_unitario>800.0</preco_unitario>
+        <data_venda>11/01/2024</data_venda>
+        <data_importacao>15/10/2025</data_importacao>
+    </venda>
+    <venda>
+        <id_produto>103</id_produto>
+        <nome_produto>Produto 2</nome_produto>
+        <quantidade>2</quantidade>
+        <preco_unitario>2500.0</preco_unitario>
+        <data_venda>12/01/2024</data_venda>
+        <data_importacao>15/10/2025</data_importacao>
+    </venda>
+    <venda>
+        <id_produto>104</id_produto>
+        <nome_produto>Produto 3</nome_produto>
+        <quantidade>4</quantidade>
+        <preco_unitario>600.0</preco_unitario>
+        <data_venda>13/01/2024</data_venda>
+        <data_importacao>15/10/2025</data_importacao>
+    </venda>
+    <venda>
+        <id_produto>105</id_produto>
+        <nome_produto>Serviço 2</nome_produto>
+        <quantidade>10</quantidade>
+        <preco_unitario>150.0</preco_unitario>
+        <data_venda>14/01/2024</data_venda>
+        <data_importacao>15/10/2025</data_importacao>
+    </venda>
+</vendas>

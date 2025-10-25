@@ -1,0 +1,32 @@
+[
+  {
+    "ID_Cliente": 1,
+    "Produto_Comprado": "Eletrônicos",
+    "Valor_Gasto": 1250.50,
+    "Pontuacao_Satisfacao": 8
+  },
+  {
+    "ID_Cliente": 2,
+    "Produto_Comprado": "Moda",
+    "Valor_Gasto": 450.00,
+    "Pontuacao_Satisfacao": 9
+  },
+  {
+    "ID_Cliente": 3,
+    "Produto_Comprado": "Casa e Jardim",
+    "Valor_Gasto": 2100.75,
+    "Pontuacao_Satisfacao": 7
+  },
+  {
+    "ID_Cliente": 4,
+    "Produto_Comprado": "Livros",
+    "Valor_Gasto": 150.20,
+    "Pontuacao_Satisfacao": 6
+  },
+  {
+    "ID_Cliente": 5,
+    "Produto_Comprado": "Eletrônicos",
+    "Valor_Gasto": 3200.00,
+    "Pontuacao_Satisfacao": 8
+  }
+]

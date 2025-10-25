@@ -1,0 +1,22 @@
+2025-10-15 20:06:08,125 - INFO - --- INICIANDO SCRIPT DE GESTÃO DE QUALIDADE ---
+2025-10-15 20:06:08,151 - INFO - Parâmetros de qualidade carregados com sucesso.
+2025-10-15 20:06:08,194 - INFO - Arquivo 'densidade_2025-10-15_CONDICIONADOR_Y.csv' processado com sucesso.
+2025-10-15 20:06:08,210 - INFO - Arquivo 'densidade_2025-10-15_SABONETE_Z.csv' processado com sucesso.
+2025-10-15 20:06:08,216 - INFO - Arquivo 'densidade_2025-10-15_SHAMPOO_XT.csv' processado com sucesso.
+2025-10-15 20:06:08,230 - INFO - Arquivo 'ph_data_151025_CONDICIONADOR_Y.csv' processado com sucesso.
+2025-10-15 20:06:08,235 - INFO - Arquivo 'ph_data_151025_SABONETE_Z.csv' processado com sucesso.
+2025-10-15 20:06:08,254 - INFO - Arquivo 'ph_data_151025_SHAMPOO_XT.csv' processado com sucesso.
+2025-10-15 20:06:08,258 - INFO - Arquivo 'viscosidade_lote_CONDICIONADOR_Y_20251015.csv' processado com sucesso.
+2025-10-15 20:06:08,288 - INFO - Arquivo 'viscosidade_lote_SABONETE_Z_20251015.csv' processado com sucesso.
+2025-10-15 20:06:08,291 - INFO - Arquivo 'viscosidade_lote_SHAMPOO_XT_20251015.csv' processado com sucesso.
+2025-10-15 20:06:08,368 - INFO - Relatório consolidado salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\relatorio_consolidado_turno.csv
+2025-10-15 20:06:08,394 - INFO - Relatório de não conformidades salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\relatorio_nao_conformes.txt
+2025-10-15 20:06:08,543 - INFO - Arquivo de estatísticas salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\estatisticas_produtos.txt
+2025-10-15 20:06:08,543 - INFO - Iniciando a geração de gráficos...
+2025-10-15 20:06:10,004 - INFO - Gráfico de dispersão para 'CONDICIONADOR_Y' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\dispersao_CONDICIONADOR_Y.png
+2025-10-15 20:06:11,396 - INFO - Gráfico de dispersão para 'SABONETE_Z' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\dispersao_SABONETE_Z.png
+2025-10-15 20:06:13,040 - INFO - Gráfico de dispersão para 'SHAMPOO_XT' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\dispersao_SHAMPOO_XT.png
+2025-10-15 20:06:13,406 - INFO - Gráfico boxplot para 'DENSIDADE' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\boxplot_DENSIDADE.png
+2025-10-15 20:06:13,853 - INFO - Gráfico boxplot para 'PH' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\boxplot_PH.png
+2025-10-15 20:06:14,301 - INFO - Gráfico boxplot para 'VISCO' salvo em: c:\AI FACTORY - UCA Etapa 2\SCRIPTS\4. Gestor da qualidade\boxplot_VISCO.png
+2025-10-15 20:06:14,303 - INFO - --- SCRIPT DE GESTÃO DE QUALIDADE FINALIZADO ---

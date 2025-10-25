@@ -1,0 +1,29 @@
+RELATÓRIO DE NÃO CONFORMIDADES - CONTROLE DE QUALIDADE
+Data de Geração: 15/10/2025 20:06:08
+============================================================
+
+LOTE: SBZ-202B (Produto: SABONETE_Z)
+  - TESTE: DENSIDADE
+  - VALOR MEDIDO: 1.09
+  - OBSERVAÇÃO: Acima do máximo (1.08)
+
+LOTE: SBZ-203C (Produto: SABONETE_Z)
+  - TESTE: DENSIDADE
+  - VALOR MEDIDO: 1.23
+  - OBSERVAÇÃO: Acima do máximo (1.08)
+
+LOTE: SBZ-203C (Produto: SABONETE_Z)
+  - TESTE: PH
+  - VALOR MEDIDO: 10.2
+  - OBSERVAÇÃO: Acima do máximo (10.0)
+
+LOTE: SXT-102B (Produto: SHAMPOO_XT)
+  - TESTE: VISCO
+  - VALOR MEDIDO: 5300.0
+  - OBSERVAÇÃO: Acima do máximo (5000.0)
+
+LOTE: SXT-103C (Produto: SHAMPOO_XT)
+  - TESTE: PH
+  - VALOR MEDIDO: 6.2
+  - OBSERVAÇÃO: Abaixo do mínimo (6.5)
+

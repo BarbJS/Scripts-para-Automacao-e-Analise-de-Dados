@@ -1,0 +1,14 @@
+PRODUTO: SHAMPOO_XT
+ph: 6.5-7.5
+viscosidade: 0-5000
+densidade: 1.01-1.03
+
+PRODUTO: CONDICIONADOR_Y
+ph: 4.0-5.0
+viscosidade: 0-8000
+densidade: 0.98-1.00
+
+PRODUTO: SABONETE_Z
+ph: 9.0-10.0
+viscosidade: 0-2000
+densidade: 1.05-1.08
